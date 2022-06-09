@@ -12,6 +12,7 @@ Feel free to fork, clone and please don't forget your star on the top right.
 ### Colors:
 
 - `#0017CB ` Navbar color
+- `#A3FFAB` Logo color
 
 
 Typography:
