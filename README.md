@@ -19,4 +19,4 @@ Typography:
 
 [Google Fonts import](https://fonts.google.com/specimen/Poppins?query=poppins)
 - Poppins: 300, 400 and 700
-[See it live](https://mailingdelgadomedina.github.io/portfolio-taller-nuc/)
+- [See it live](https://mailingdelgadomedina.github.io/portfolio-taller-nuc/)
